@@ -14,10 +14,10 @@
 ### 2.1: Dataset:
 
 [Covid 19](https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data)
-This dataset contains detailed information about each person affected by the corona virus. 
+This dataset contains detailed information about each person affected by the coronavirus. 
 
 [Covid 19: mitigation measures](http://epidemicforecasting.org/containment)
-This dataset contains government measures to slow down the propagation of the corona virus.
+This dataset contains government measures to slow down the propagation of the coronavirus.
 
 The further datasets represent people affected by the Ebola and SARS disease. The following datasets
 would be interesting for comparing the number of case/death between the corona virus and the Ebola/SARS. 
@@ -34,7 +34,7 @@ As a first look the datasets seems to be really good and do not need a big prepr
 
 * Think of an overview for the project, your motivation, and the target audience.
 
-  Since the corona virus is happening right now and impact our living, the whole population wants to be informed of the corona virus. We would split our project into three parts:
+  Since the corona virus is happening right now and impact our living, the whole population wants to be informed of the coronavirus. We would split our project into three parts:
   - An overview of the dataset to show which type of people is mainly affected (age, sex), how dangerous it is (mortality rate, hospital rate) and the comparison with the Ebola/ SARS disease.
   - Where and how fast the virus spreads among the world (A map showing the number of cases/deaths over time)
   - How the government decisions impact the spread of the virus.

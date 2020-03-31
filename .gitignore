@@ -207,3 +207,6 @@ dmypy.json
 
 # project internal stuff
 data/
+
+# For Mac Users
+.DS_Store

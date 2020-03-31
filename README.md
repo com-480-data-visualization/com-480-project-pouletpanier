@@ -21,8 +21,7 @@ This dataset contains government measures to slow down the propagation of the co
 
 The further datasets represent people affected by the Ebola and SARS disease. The following datasets
 would be interesting for comparing the number of case/death between the corona virus and the Ebola/SARS. 
-
-[SARS](https://www.kaggle.com/imdevskp/sars-outbreak-2003-complete-dataset)
+[SARS](https://www.kaggle.com/imdevskp/sars-outbreak-2003-complete-dataset),
 [Ebola](https://www.kaggle.com/imdevskp/ebola-outbreak-20142016-complete-dataset) 
 
 As a first look the datasets seems to be really good and do not need a big preprocessing work.

@@ -11,16 +11,20 @@
 ## Milestone 1 (Friday 3rd April, 5pm)
 
 **10% of the final grade**
-### 2.1: Dataset:\
+### 2.1: Dataset:
+\
 [Covid 19](https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data)
-This dataset contains detailed information about each person affected by the corona virus.
+This dataset contains detailed information about each person affected by the corona virus. \
 [Covid 19: mitigation measures](http://epidemicforecasting.org/containment)
 This dataset contains government measures to slow down the propagation of the corona virus.
 \
 The further datasets represent people affected by the Ebola and SARS disease. The following datasets
-would be interesting for comparing the number of case/death between the corona virus and the Ebola/SARS.
+would be interesting for comparing the number of case/death between the corona virus and the Ebola/SARS. \
 [SARS](https://www.kaggle.com/imdevskp/sars-outbreak-2003-complete-dataset)
-[Ebola](https://www.kaggle.com/imdevskp/ebola-outbreak-20142016-complete-dataset)
+[Ebola](https://www.kaggle.com/imdevskp/ebola-outbreak-20142016-complete-dataset) \
+As a first look the datasets contains good results
+\
+The datasets seems to be really good and do not need a big preprocessing work.
 
 ### 2.2: Problematic:
 \

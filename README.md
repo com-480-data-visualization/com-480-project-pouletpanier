@@ -34,7 +34,7 @@ The other datasets seems at a first look really coherent and complete and theref
 
 * What am I trying to show with my visualization? 
 
-  Our visualization will try to show as best as we can who and where people are affected by the corona virus and also how fast the virus spreads. Our visualization will thus show the violence of the virus.
+  Our visualization will try to show as best as we can who and where people are affected by the corona virus. Is it worldwide ? Is it concentrated in some dense areas ? Also how fast the virus spreads will be shown in the visualization. Therefore our visualization will show the consequence of the corona virus on the population.
 
 * Think of an overview for the project, your motivation, and the target audience.
 

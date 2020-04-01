@@ -43,6 +43,7 @@ As a first look the datasets seems to be really good and do not need a big prepr
 
 * What others have already done with the data?
 
+Multiple maps updated regularly with the new information incoming every time. The most famous one is the Johns Hopkins map which shows the global situation in the world but also specific statistics for each country.
 
 * Why is your approach original?
 

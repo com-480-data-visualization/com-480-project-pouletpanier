@@ -39,6 +39,16 @@ As a first look the datasets seems to be really good and do not need a big prepr
   - Where and how fast the virus spreads among the world (A map showing the number of cases/deaths over time)
   - How the government decisions impact the spread of the virus.
 
+### 2.4: Related work:
+
+* What others have already done with the data?
+
+
+* Why is your approach original?
+
+
+* What source of inspiration do you take? Visualizations that you found on other websites or magazines (might be unrelated to your data).
+
 
 ## Milestone 2 (Friday 1st May, 5pm)
 

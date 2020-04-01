@@ -47,6 +47,7 @@ Multiple maps updated regularly with the new information incoming every time. Th
 
 * Why is your approach original?
 
+Our approach is original as we will try to get an insight of the repercutions of politic countermeasures on the general spread of the virus and also compare the efficacity of different politics on the evolution of the pandemic.
 
 * What source of inspiration do you take? Visualizations that you found on other websites or magazines (might be unrelated to your data).
 

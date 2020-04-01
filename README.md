@@ -13,8 +13,11 @@
 **10% of the final grade**
 ### 2.1: Dataset:
 
-[Covid 19](https://data.europa.eu/euodp/en/data/dataset/covid-19-coronavirus-data)
+[Covid 19](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/data#covid_19_data.csv)
 This dataset contains detailed information about each person affected by the coronavirus. 
+
+[Covid 19 in South Korea](https://www.kaggle.com/kimjihoo/coronavirusdataset)
+This dataset contains detailed information on people affected by the corona virus in South Korea. At a first look the South Korea dataset on Covid 19 seems to contain more data on South Korean people compared to the Covid 19 dataset. We specifically selected this country because the South Korean government adopted a different politic compared to the rest of the world and we want as much data as possible.
 
 [Covid 19: mitigation measures](http://epidemicforecasting.org/containment)
 This dataset contains government measures to slow down the propagation of the coronavirus.
@@ -24,7 +27,8 @@ would be interesting for comparing the number of case/death between the corona v
 [SARS](https://www.kaggle.com/imdevskp/sars-outbreak-2003-complete-dataset),
 [Ebola](https://www.kaggle.com/imdevskp/ebola-outbreak-20142016-complete-dataset) 
 
-As a first look the datasets seems to be really good and do not need a big preprocessing work.
+The dataset on Covid 19 contains for some attribute a high rate of null or nan values. We will then make choices of what do to with these rows. Furthermore, an attribute is a text containing information on the people. Some other attributes come from this text, we thus have to check if every information is correctly retrieved.
+The other datasets seems at a first look really coherent and complete and therefore do not need a big preprocessing work.
 
 ### 2.2: Problematic:
 
@@ -35,9 +39,9 @@ As a first look the datasets seems to be really good and do not need a big prepr
 * Think of an overview for the project, your motivation, and the target audience.
 
   Since the corona virus is happening right now and impact our living, the whole population wants to be informed of the coronavirus. We would split our project into three parts:
-  - An overview of the dataset to show which type of people is mainly affected (age, sex), how dangerous it is (mortality rate, hospital rate) and the comparison with the Ebola/ SARS disease.
+  - An overview of the dataset to show which type of people is mainly affected (age, sex), how dangerous it is (mortality rate, hospital rate) and how dangerous it is compared with the Ebola/ SARS disease.
   - Where and how fast the virus spreads among the world (A map showing the number of cases/deaths over time)
-  - How the government decisions impact the spread of the virus.
+  - How the government decisions impact the spread of the virus
 
 ### 2.4: Related work:
 

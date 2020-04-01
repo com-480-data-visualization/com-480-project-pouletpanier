@@ -51,7 +51,7 @@ Our approach is original as we will try to get an insight of the repercutions of
 
 * What source of inspiration do you take? Visualizations that you found on other websites or magazines (might be unrelated to your data).
 
-Considering the extroardinary turn of events as the lockdown of the most part of the world and the trumendous economic crisis that we face, we wanted to elaborate conclusions and better understand the politic decisions by working at the data from scratch. 
+Considering the extroardinary turn of events as the lockdown of the most part of the world and the trumendous economic crisis that we face, we wanted to elaborate results and better understand the politic decisions by working on the data from scratch. It would allow us to have a different point of vue that the one vehiculated by the medias.
 
 ## Milestone 2 (Friday 1st May, 5pm)
 

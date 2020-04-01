@@ -27,7 +27,7 @@ would be interesting for comparing the number of case/death between the corona v
 [SARS](https://www.kaggle.com/imdevskp/sars-outbreak-2003-complete-dataset),
 [Ebola](https://www.kaggle.com/imdevskp/ebola-outbreak-20142016-complete-dataset) 
 
-The dataset on Covid 19 contains for some attribute a high rate of null or nan values. We will then make choices of what do to with these rows. Furthermore, an attribute is a text containing information on the people. Some other attributes come from this text, we thus have to check if every information is correctly retrieved.
+The dataset on Covid 19 contains for some attribute a high rate of null or nan values and choices have to be made on these rows. Furthermore, an attribute od the dataset is a text containing information on the people and some other attributes are filled with information coming from this text. We will thus have to check if every information is correctly retrieved.
 The other datasets seems at a first look really coherent and complete and therefore do not need a big preprocessing work.
 
 ### 2.2: Problematic:

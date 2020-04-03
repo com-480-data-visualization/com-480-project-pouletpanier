@@ -36,7 +36,7 @@ Preprocessing on these datasets can be evaluated in Section 2.3 when we ploted s
 * Think of an overview for the project, your motivation, and the target audience.
 
   Since the corona virus is happening right now and impact our living, the whole population wants to be informed of the coronavirus. We would split our project into three parts:
-  - An overview of the dataset to show which type of people is mainly affected (age, sex), how dangerous it is (mortality rate, hospital rate) and how dangerous it is compared with the Ebola/ SARS disease.
+  - How dangerous is this virus and how dangerous it is compared to the Ebola/ SARS disease.
   - Where and how fast the virus spreads among the world (A map showing the number of cases/deaths over time)
   - How the government decisions impact the spread of the virus
   

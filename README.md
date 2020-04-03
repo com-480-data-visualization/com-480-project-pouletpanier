@@ -25,6 +25,8 @@ Here are the 5 selected datasets for the project:
 
 [Ebola](https://www.kaggle.com/imdevskp/ebola-outbreak-20142016-complete-dataset) 
 
+Preprocessing on these datasets can be evaluated Section 2.3 when we evaluated statistics on the data.
+
 ### 2.2: Problematic:
 
 * What am I trying to show with my visualization? 

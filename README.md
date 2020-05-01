@@ -73,7 +73,8 @@ To a lesser extent, maybe that those vizualisations of the first countries affec
 
 ## Milestone 2 (Friday 1st May, 5pm)
 
-**10% of the final grade**
+The git hub holding the website code can be found [here](https://github.com/rlaraki/rlaraki.github.io) and the visualization of the website can be seen [here](https://rlaraki.github.io/).
+
 
 
 

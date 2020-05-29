@@ -82,6 +82,7 @@ The git hub holding the website code can be found [here](https://github.com/rlar
 ## Milestone 3 (Thursday 28th May, 5pm)
 
 The link of our website can be found here : https://rlaraki.github.io
+The link of the required video can be found here: https://youtu.be/wMgqrpahrcY
 
 ### Tools
 - D3.js v5
